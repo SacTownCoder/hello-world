@@ -1,2 +1,5 @@
 # hello-world
-Learning To Use Github
+
+I like to listen to music.
+I am learning Python.
+I will learn more about JavaScript soon.
